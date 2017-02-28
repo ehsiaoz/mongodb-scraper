@@ -1,5 +1,9 @@
 body {
-    background-color: #F0FFFF
+    background-color: lightslategray
+}
+
+.jumbotron {
+    background-color: lightcoral
 }
 
 #wrapper {
@@ -14,6 +18,7 @@ body {
     overflow: auto;
     width: 60%;
     height: 700px;
+    background-color: lightblue
 }
 
 #notes {
@@ -25,7 +30,7 @@ textarea,
 input {
     display: block;
     width: 100%;
-    background-color: ##ffffb2;
+    background-color: lightcoral;
 }
 
 input {
